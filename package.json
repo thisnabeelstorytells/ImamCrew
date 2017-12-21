@@ -33,7 +33,10 @@
     "react-native-elements": "^0.18.5",
     "react-native-gifted-spinner": "^0.1.0",
     "react-native-keyboard-aware-scroll-view": "^0.4.1",
+    "react-native-simple-login": "^1.1.0",
     "react-native-snap-carousel": "^3.4.0",
+    "react-navigation": "^1.0.0-beta.22",
+    "react-router-native": "^4.2.0",
     "redux-thunk": "^2.2.0",
     "simple-carousel-react-native": "^1.0.2"
   }
